@@ -67,17 +67,24 @@ This project requires an **OpenAI API Key** to function.
 2. **Enter the key** in the sidebar under "🔑 Settings" before using the app.
 
 
-## 🖥 Screenshots
+## 📽️ Demo
+Check out the app in action! Below are examples of how TubeTalk AI interacts with YouTube videos and Shorts.
 
 <div align="center">
-  <p><strong>Generated Image</strong></p>
-  <img src="/screenshots/.png" alt="Generated Image" width="500">
+  <p><strong>Home Screen Overview</strong></p>
+  <img src="/screenshots/home_screen.PNG" alt="Home Screen Overview" width="500">
 </div>
 <br>
 
 <div align="center">
-  <p><strong>Description of Image</strong></p>
-  <img src="/screenshots/.PNG" alt="Description of Image" width="700">
+  <p><strong>Chatting with a YouTube Video</strong></p>
+  <img src="/screenshots/youtube_video.PNG" alt="Chatting with a YouTube Video" width="700">
+</div>
+<br>
+
+<div align="center">
+  <p><strong>Question on a YouTube Short</strong></p>
+  <img src="/screenshots/youtube_shorts.PNG" alt="Question on a YouTube Short" width="700">
 </div>
 <br>
 
