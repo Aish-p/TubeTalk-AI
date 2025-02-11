@@ -89,7 +89,7 @@ st.sidebar.markdown(
 st.sidebar.markdown("---")
 
 st.title("🎬 TubeTalk AI")
-st.markdown("💬 **Ask questions about a YouTube video using AI-powered chat!**")
+st.markdown("💬 **Ask questions about a YouTube video or shorts using AI-powered chat!**")
 
 if openai_access_token:
     db_path = tempfile.mkdtemp()
