@@ -43,8 +43,8 @@
 1️⃣ **Clone the Repository**
 
     ```
-    git clone https://github.com/your-username/tube-talk-ai.git
-    cd tube-talk-ai
+    git clone https://github.com/Aish-p/TubeTalk-AI.git
+    cd TubeTalk-AI
     ```
     
 2️⃣ **Install Dependencies**
@@ -66,6 +66,20 @@ This project requires an **OpenAI API Key** to function.
 1. **Get your API key** from [here](https://platform.openai.com/signup).
 2. **Enter the key** in the sidebar under "🔑 Settings" before using the app.
 
+
+## 🖥 Screenshots
+
+<div align="center">
+  <p><strong>Generated Image</strong></p>
+  <img src="/screenshots/.png" alt="Generated Image" width="500">
+</div>
+<br>
+
+<div align="center">
+  <p><strong>Description of Image</strong></p>
+  <img src="/screenshots/.PNG" alt="Description of Image" width="700">
+</div>
+<br>
 
 ## 📜 License
 MIT License – Free to use & modify!
