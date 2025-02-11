@@ -72,19 +72,19 @@ Check out the app in action! Below are examples of how TubeTalk AI interacts wit
 
 <div align="center">
   <p><strong>Home Screen Overview</strong></p>
-  <img src="/screenshots/home_screen.PNG" alt="Home Screen Overview" width="500">
+  <img src="/screenshots/home_screen.PNG" alt="Home Screen Overview" width="800">
 </div>
 <br>
 
 <div align="center">
   <p><strong>Chatting with a YouTube Video</strong></p>
-  <img src="/screenshots/youtube_video.PNG" alt="Chatting with a YouTube Video" width="700">
+  <img src="/screenshots/youtube_video.PNG" alt="Chatting with a YouTube Video" width="800">
 </div>
 <br>
 
 <div align="center">
   <p><strong>Question on a YouTube Short</strong></p>
-  <img src="/screenshots/youtube_shorts.PNG" alt="Question on a YouTube Short" width="700">
+  <img src="/screenshots/youtube_shorts.PNG" alt="Question on a YouTube Short" width="800">
 </div>
 <br>
 
