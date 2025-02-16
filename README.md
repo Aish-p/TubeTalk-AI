@@ -67,7 +67,7 @@ This project requires an **OpenAI API Key** to function.
 2. **Enter the key** in the sidebar under "🔑 Settings" before using the app.
 
 
-## 📽️ Demo
+## Demo
 Check out the app in action! Below are examples of how TubeTalk AI interacts with YouTube videos and Shorts.
 
 <div align="center">
